@@ -5,6 +5,9 @@
 [submodule "flevr"]
 	path = flevr
 	url = https://github.com/bdwilliamson/flevr
+[submodule "lvimp"]
+	path = lvimp
+	url = https://github.com/bdwilliamson/lvimp
 [submodule "vimp"]
 	path = vimp
 	url = https://github.com/bdwilliamson/vimp
